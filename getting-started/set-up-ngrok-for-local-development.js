@@ -12,5 +12,7 @@ var server = app.listen(8081, function () {
 })
 
 // download ngrok
-// from folder with ngrok download
-// ./ngrok http 8081
+// from folder with ngrok download run
+// $ ./ngrok http 8081
+// also run
+// $ node set-up-ngrok-for-local-development.js
